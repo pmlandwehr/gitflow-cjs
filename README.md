@@ -8,7 +8,7 @@ blog post"). This fork adds functionality not added to the original branch.
 The last commit to [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh)
 was on May 23, 2019 and has been archived on Jun 19, 2023. Since 2019 there have
 been a number of issues opened that have not be resolved. This fork will address
-those outstanding issues and open PR's along with continueing to maintain the
+those outstanding issues and open PR's along with continuing to maintain the
 git-flow branching model.
 
 ## Getting started
